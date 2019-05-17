@@ -1,0 +1,4 @@
+# Run with:
+```
+npx cucumber-js -t 'not @excluded'
+```
